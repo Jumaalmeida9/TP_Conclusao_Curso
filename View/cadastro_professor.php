@@ -1,6 +1,8 @@
 <html>
     <head> 
         <title>Cadastro Professores</title>
+        <link rel="stylesheet" href="style/cadastro_professor.css">
+        <link rel="shortcut icon" href="IMG/ilustracao-3d-da-fatura-de-confirmacao-de-pagamento-removebg-preview.png" type="image/x-icon">
     </head>
     <body>
         <h2>Cadastro Professores</h2>

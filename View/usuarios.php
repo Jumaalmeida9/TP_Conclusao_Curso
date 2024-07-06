@@ -6,7 +6,8 @@
    
 
     <title>Cadastro de Usuário</title>
-
+    <link rel="stylesheet" href="style/usuario.css">
+    <link rel="shortcut icon" href="IMG/ilustracao-3d-da-fatura-de-confirmacao-de-pagamento-removebg-preview.png" type="image/x-icon">
 
 <body>
     

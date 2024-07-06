@@ -1,6 +1,8 @@
 <html>
     <head>
         <title>Folha de Pagamento</title>
+        <link rel="stylesheet" href="style/folha_pagamento.css">
+        <link rel="shortcut icon" href="IMG/ilustracao-3d-da-fatura-de-confirmacao-de-pagamento-removebg-preview.png" type="image/x-icon">
 
     </head>
     <body>

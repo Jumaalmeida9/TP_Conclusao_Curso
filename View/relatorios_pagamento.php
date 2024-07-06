@@ -1,12 +1,14 @@
 <html>
     <head>
         <title>Relatórios de pagamento</title>
+        <link rel="stylesheet" href="style/relatorios_pagamento.css">
+        <link rel="shortcut icon" href="IMG/ilustracao-3d-da-fatura-de-confirmacao-de-pagamento-removebg-preview.png" type="image/x-icon">
     </head>
     <body>
         <h2>Relatórios de Pagamento</h2>
 
         <form action="" method="post">
-        <label for= "departamento"></label>
+        <label for= "departamento">Departamento: </label>
         <input type="text" name="departamento" id="departamento">
 
         <label for="mes">Mês:</label>

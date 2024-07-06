@@ -1,0 +1,64 @@
+/* Estilização geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F7F7F7;
+    /* Cinza claro */
+}
+
+/* Estilização do título */
+h2 {
+    color: #7A288A;
+    /* Roxo */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilização do formulário */
+form {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    /* Branco */
+    border: 1px solid #CCCCCC;
+    /* Cinza */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilização dos labels e inputs */
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #7A288A;
+    /* Roxo */
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #CCCCCC;
+    /* Cinza */
+}
+
+input[type="number"] {
+    text-align: right;
+}
+
+/* Estilização do botão */
+button[type="submit"] {
+    background-color: #FFC107;
+    /* Laranja */
+    color: #FFFFFF;
+    /* Branco */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #FFA07A;
+    /* Laranja escuro */
+}
