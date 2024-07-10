@@ -20,15 +20,11 @@ label {
 select,
 input[type="number"] {
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #CCCCCC;
+    height: 35px;
 }
-
-select {
-    height: 30px;
-}
-
 
 button[type="submit"] {
     background-color: #FFC107;
@@ -39,6 +35,31 @@ button[type="submit"] {
     cursor: pointer;
 }
 
-button[type="submit"]:hover {
-    background-color: #FFA07A;
+.container{
+    display:flex;
+    container: column;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    /* Branco */
+    border: 1px solid #CCCCCC;
+    /* Cinza */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.coluna{
+    flex: 1;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.data{
+text-align: left;
+position: relative;
+left: 0px;
+
 }

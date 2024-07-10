@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Central de Recursos Humanos</title>
-        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="style/style.css">  
         <link rel="shortcut icon" href="IMG/icone.png" type="image/x-icon">
     </head>
 
