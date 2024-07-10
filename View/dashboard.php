@@ -29,5 +29,12 @@
         </div>
 
 
+        <footer>
+
+        <div class="rodape">
+            <p class="nomesite2">Central de Recursos Humanos &copy 2024</p>
+        </div>
+
+        </footer>
     </body>
 </html>

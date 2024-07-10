@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
+
+
 #cabecalho {
     color: #7A288A;
     font-size: 2rem;
@@ -17,9 +19,9 @@
 }
 
 .nome-cbc {
-    position: fixed;
-    left: 4rem;
-    top: -1.5rem;
+    position: absolute;
+    left: -33rem;
+    top: -.5rem;
     font-size: 1.9rem;
 }
 
@@ -34,10 +36,10 @@
 
 #imagem-3 {
     height: 5rem;
-    width: 8rem;
+    width: 9rem;
     position: absolute;
     top: 1.6rem;
-    left: 38rem;
+    left: 36rem;
 
 }
 
@@ -50,6 +52,8 @@ nav {
     width: 95%;
     height: rem;
     border-bottom: 2px solid #7A288A;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
 
 }
 
@@ -78,12 +82,18 @@ nav a:hover {
 }
 
 
-footer {
-    background-color: #7A288A;
-
-    color: #FFFFFF;
-
-    padding: 10px;
+.rodape {
+    background-color: #cf6de2;
+    padding-bottom: 4rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
     text-align: center;
-    clear: both;
+    height: 1%;
+}
+
+.nomesite2{
+
+    position: absolute;
+    top: 51.2rem;
+    left: 35rem;
 }
