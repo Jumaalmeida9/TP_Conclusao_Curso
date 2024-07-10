@@ -7,9 +7,7 @@
     </head>
     <body>
         <h2>Folha de Pagamento</h2>
-        <div class="container">
-        <div class="coluna">
-        <label for="mes" class="data">Mês:</label>
+        <label for="mes">Mês:</label>
         <select name="mes" id="mes" >
             <option value="jan">Janeiro</option>
             <option value="fev">Fevereiro</option>
@@ -24,11 +22,9 @@
             <option value="nov">Novembro</option>
             <option value="dez">Dezembro</option>
         </select>
-            <label for="ano" class="data">Ano:</label>
+            <label for="ano">Ano:</label>
             <input type="number" id="ano" nome="ano">
 
-            <button type="submit">Gerar Folha de Pagamento</button>
-</div>
-</div>
+            <button type="submit">Gerar Folha de Pagamento>
     </body>
 </html>

@@ -4,9 +4,8 @@ body {
 
 
     h2 {
-        color: #7A288A;
+        color: #333333;
         margin-bottom: 20px;
-        text-align: center;
     }
 
 
@@ -23,7 +22,7 @@ body {
     label {
         display: block;
         margin-bottom: 10px;
-        color: #7A288A;
+        color: #666666;
     }
 
     input[type="text"],
@@ -34,30 +33,23 @@ body {
         margin-bottom: 20px;
         border: 1px solid #CCCCCC;
         background-color: #FFFFFF;
-        height: 35px;
     }
 
+    select {
+        height: 30px;
+    }
+
+
     button[type="submit"] {
-        background-color: #FFC107;
-        color: #FFFFFF;
+        background-color: #CCCCCC;
+        color: #333333;
         padding: 10px 20px;
         border: none;
         border-radius: 5px;
         cursor: pointer;
-
     }
 
+    button[type="submit"]:hover {
+        background-color: #AAAAAA;
+    }
 }
-
-form {
-    max-width: 400px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #FFFFFF;
-    /* Branco */
-    border: 1px solid #CCCCCC;
-    /* Cinza */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    
-}
-

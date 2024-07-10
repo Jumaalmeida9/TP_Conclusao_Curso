@@ -22,7 +22,7 @@
         <label for="Descontos">Descontos:</label>
         <input type="number" step="0.01" id="descontos">
 
-        <center><button type="submit">Adicionar Professor</button></center>
+        <button type= "submit">Adicionar Professor</button>
 
 
         </form>

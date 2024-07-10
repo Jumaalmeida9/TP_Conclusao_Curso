@@ -29,7 +29,7 @@
             <label for="ano">Ano:</label>
             <input type="number" id="ano" nome="ano">
 
-           <center><button type="submit">Gerar Folha de Pagamento</button></center>
+            <button type="submit">Gerar Folha de Pagamento</button>
             
         </form>
     </body>
