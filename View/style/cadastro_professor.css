@@ -56,9 +56,6 @@ button[type="submit"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    
 }
 
-button[type="submit"]:hover {
-    background-color: #FFA07A;
-    /* Laranja escuro */
-}
